@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋 I'm Kiseong Lim
 
-<!--
-**PIut0/PIut0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm interested in Front-end Develope ⚙️
+- Currently working on 42 Seoul ✌️
+- I enjoy talking about development 💡
 
-Here are some ideas to get you started:
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPIut0&count_bg=%2300AFB0&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=Hello&edge_flat=false)](https://hits.seeyoufarm.com)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PIut0&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 42 Seoul Cadet
+### Intra id : klim
+## ![42 stats](https://badge42.herokuapp.com/api/stats/klim)
