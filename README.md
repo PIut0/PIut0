@@ -1,4 +1,7 @@
 ## Hi there 👋 I'm Kiseong Lim
+> - Sunrin Internet High School (Major in ICT) [2015 ~ 2018]
+> - Hanyang Univ. ERICA (Major in Softwere Engineering) [2019 ~ ]
+> - 42Seoul - 42Cursus [2020 ~ ]
 
 - I'm interested in Front-end Develope ⚙️
 - Currently working on 42 Seoul ✌️
