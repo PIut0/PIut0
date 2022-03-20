@@ -11,5 +11,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PIut0&show_icons=true&theme=radical)
 
 ## 42 Seoul Cadet
+2020.12 ~ 
 ### Intra id : klim
-## ![42 stats](https://badge42.herokuapp.com/api/stats/klim)
