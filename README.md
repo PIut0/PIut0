@@ -13,3 +13,5 @@
 ## 42 Seoul Cadet
 2020.12 ~ 
 ### Intra id : klim
+[![klim's 42 stats](https://badge42.vercel.app/api/v2/cl4w99a96002509mpmjh0ge9w/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
+
